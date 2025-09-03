@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Roberto
 
  🎓 Mestrando em Engenharia de Computação (FURG) — linha de pesquisa em Sistemas Multiagentes (MAS)  
- 💻 Desenvolvedor em Python, React, PHP e SQL 
+ 💻 Desenvolvedor em Python, React, PHP, SQL, HTML e CSS
  
  🔐 Especialista em Gestão de Riscos e Cibersegurança  
  🎮 Criador de jogos indie em pixel art  
