@@ -37,7 +37,7 @@
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-naim-jarjoura-el-achkar-j%C3%BAnior-006ba0207)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-naim-jarjoura-el-achkar-j%C3%BAnior-006ba0207)  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:roberto.elachkar.junior@gmail.com)
 
 ---
 
