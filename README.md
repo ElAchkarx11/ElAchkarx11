@@ -22,7 +22,7 @@
 - 🤖 **[ChatBot para Barbearias](https://github.com/ElAchkarx11/ChatBot_Barbearia.git)**  
   ChatBot criado em Python com LangChain e GenAI, com objetivo de auxiliar barbearias em agendamentos de atendimento.
   
-- 👽 **[MAS - Gerador de Artigos Web]([https://github.com/ElAchkarx11/MAS_Gerador_Artigos])**  
+- 🧰 **[MAS - Gerador de Artigos Web](https://github.com/ElAchkarx11/MAS_Gerador_Artigos)**  
   Sistemas Multiagente criado com o objetivo de automatizar a criação de artigos para Websites.
 
 ---
