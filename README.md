@@ -22,8 +22,8 @@
 - 🤖 **[ChatBot para Barbearias](https://github.com/ElAchkarx11/ChatBot_Barbearia.git)**  
   ChatBot criado em Python com LangChain e GenAI, com objetivo de auxiliar barbearias em agendamentos de atendimento.
   
-- 👽 **[Alien Jumper](https://github.com/ElAchkarx11/Alien_Jumper-Python_game.git)**  
-  Jogo do gênero platforma e runner. Criado em Python na biblioteca PgZero, 
+- 👽 **[MAS - Gerador de Artigos Web]([https://github.com/ElAchkarx11/MAS_Gerador_Artigos])**  
+  Sistemas Multiagente criado com o objetivo de automatizar a criação de artigos para Websites.
 
 ---
 
