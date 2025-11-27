@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Roberto
 
  🎓 Mestrando em Engenharia de Computação (FURG) — linha de pesquisa em Sistemas Multiagentes (MAS)  
- 💻 Desenvolvedor em Python, React, PHP, SQL, HTML e CSS
+ 💻 Desenvolvedor Full Stack | 🚀 Focado em IA/DevOps. Skills: Python, FastAPI, Flask, React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, SQL, PHP, Pandas, NumPy, Docker, Git, Linux, CI/CD, Algoritmos, Estruturas de Dados, Machine Learning (ML), Inteligência Artificial (IA).
  
  🔐 Especialista em Gestão de Riscos e Cibersegurança  
  🎮 Criador de jogos indie em pixel art  
